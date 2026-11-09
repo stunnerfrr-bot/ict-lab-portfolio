@@ -2,8 +2,8 @@
 # ICT Lab Portfolio
 
 - **Name:** Amna Gul
-- **Reg No:** YOUR_REGISTRATION_NUMBER
-- **Class:** BEIS-06 A
+- **Reg No:** 552736
+- **Class:** BEIS-06 B
 - **Course:** Applications of ICT (CS-117), MCS NUST
 
 ## What is in this repo
