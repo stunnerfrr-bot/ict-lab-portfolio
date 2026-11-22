@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>My ICT Page</title>
+    <style>
+        body {
+            font-family: Arial;
+            max-width: 640px;
+            margin: 40px auto;
+        }
+        h1 {
+            color: #1F3B63;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="t">Hello, my name is Amna Gul</h1>
+    <p>My first page for CS-117, hosted on GitHub Pages.</p>
+    <button onclick="change()">Click me</button>
+
+    <script>
+        function change() {
+            document.getElementById('t').innerHTML = 'You changed the DOM!';
+        }
+    </script>
+</body>
+</html>
